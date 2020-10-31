@@ -1,0 +1,8 @@
+{
+  "domain": "lazybone",
+  "name": "Bluetooth relays",
+  "documentation": "https://www.tinyosshop.com/smartphone-controlled-switch-lazybone-v3-bluetooth",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": []
+}

@@ -1,0 +1,4 @@
+# Describes the format for available services
+
+on_off:
+  description: Turn switch on then immediately off.

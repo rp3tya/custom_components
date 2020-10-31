@@ -1,0 +1,8 @@
+{
+  "domain": "lonhand",
+  "name": "Lonhand relays",
+  "documentation": "https://www.lonhand.com",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": ["lonhand==0.4"]
+}

@@ -1,0 +1,8 @@
+{
+  "domain": "imatic",
+  "name": "Sainsmart iMatic Relay Controller",
+  "documentation": "https://www.sainsmart.com",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": ["iMatic==0.2"]
+}

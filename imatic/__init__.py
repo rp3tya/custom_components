@@ -1,0 +1,1 @@
+"""Sainsmart relay board integration"""

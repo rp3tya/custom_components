@@ -1,0 +1,7 @@
+# Describes the format for available services
+
+all_on:
+  description: Set a theme unless the client selected per-device theme.
+
+all_off:
+  description: Reload themes from yaml configuration.
