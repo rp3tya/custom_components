@@ -1,0 +1,8 @@
+{
+  "domain": "geebee",
+  "name": "Bluetooth Serial Sensor",
+  "documentation": "In HASS terminal: bluetoothctl; list; scan on; scan off; pair MAC; trust MAC; quit;",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": []
+}
